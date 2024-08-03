@@ -47,8 +47,6 @@ Al ejecutar `fifo_demo.py`, la interfaz gráfica se verá similar a la siguiente
 
 ![Interfaz de FIFO](images/example_fifo.png)
 
-## Contribuciones
-
 
 ## Licencia
 
