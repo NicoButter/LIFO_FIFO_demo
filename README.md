@@ -63,4 +63,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-Para cualquier consulta, por favor contacta a [tu email](mailto:nicobutter@gmail.com).
+Para cualquier consulta, por favor contacta a [my email](mailto:nicobutter@gmail.com).
