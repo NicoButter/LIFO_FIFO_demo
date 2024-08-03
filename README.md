@@ -49,13 +49,6 @@ Al ejecutar `fifo_demo.py`, la interfaz gráfica se verá similar a la siguiente
 
 ## Contribuciones
 
-Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tu característica o corrección de errores (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y confirma tus modificaciones (`git commit -am 'Añadir nueva característica'`).
-4. Empuja tu rama (`git push origin feature/nueva-caracteristica`).
-5. Crea un nuevo Pull Request.
 
 ## Licencia
 
